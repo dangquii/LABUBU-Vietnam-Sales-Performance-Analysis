@@ -38,7 +38,7 @@ _All formulas are fully documented in the **Analysis** sheet._
 ---
 
 ## Dashboard
-! [Dashboard](dashboardlabubu.png)
+![Dashboard snapshot](dashboardlabubu.png)
 
 
 ---
